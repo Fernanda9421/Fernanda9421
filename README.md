@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <h1>Tecnologias e Ferramentas</h1>
+  <h2>Tecnologias e Ferramentas</h2>
   <br />
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <h1>Github Stats</h1>
+  <h2>Github Stats</h2>
   <br />
   <div>
     <img style="margin-top: 25px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Fernanda9421&show_icons=true&theme=dark" alt="Fernanda Github status"/>

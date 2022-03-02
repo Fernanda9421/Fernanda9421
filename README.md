@@ -1,3 +1,4 @@
+```html
 <div align="center">
   <a href="https://github.com/Fernanda9421" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -76,3 +77,4 @@
   <img style="margin-top: 25px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Fernanda9421&show_icons=true&theme=dark" alt="Fernanda Github status"/>
   <img style="margin-top: 25px; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda9421&layout=compact&theme=dark" alt="top languages" />
 </div>
+```

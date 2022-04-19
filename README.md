@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/fernandaacarvalho/" target="_blank" style="margin-right: 15px;">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
+  <a href="https://portfolio-teal-nu-64.vercel.app/" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-64/portfolio-carry-office-bag-briefcase-luggage-suitcase-6-5553.png" width="48px" height="48px">
+  </a>
 </div>
 
 <div style="margin-top: 10px" align="justify">

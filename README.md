@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript">
   </div>
   <br />
   <div>
@@ -43,6 +44,7 @@
   <div>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Express-1572B6?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   </div>
   <br />
   <div>

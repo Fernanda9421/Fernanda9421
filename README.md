@@ -11,7 +11,7 @@
 </div>
 <br />
 <div align="justify">
-  Muito prazer, me chamo <strong>Fernanda Andrade</strong>, tenho 27 anos e moro em Belo Horizonte, MG. Sou formada em Nutrição pela UFLA, e atualmente me encontro em transição de carreira para a área de tecnologia.
+  Muito prazer, me chamo <strong>Fernanda Andrade</strong>, tenho 27 anos e moro em Sintra, Portugal. Sou formada em Nutrição pela UFLA, e atualmente me encontro em transição de carreira para a área de tecnologia.
 </div>
 <div align="justify">
   Sou estudante de <strong>Desenvolvimento Web</strong>, na <strong>Trybe</strong>.
